@@ -1,0 +1,11 @@
+buat project Indonesia 
+buat folder images di root directory project kita 
+cari gambar Indonesia lalu masukkan ke dalam folder images yang tadi sudah dibuat
+
+
+
+https://mediasumatera.id/assets/uploads/IMG-20230927-WA0008.jpg
+
+https://mediasumatera.id/assets/uploads/IMG-20230927-WA0016.jpg
+
+https://asset-2.tstatic.net/palembang/foto/bank/images/dul-muluk-dewan-di-atas-jembatan-ampera-palembang_20160309_103753.jpg
